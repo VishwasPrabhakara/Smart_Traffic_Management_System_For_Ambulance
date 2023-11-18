@@ -1,0 +1,8 @@
+Step 1: Download the zip files "traffic management" and extract the files to your required destination
+Step 2: Install Python 3.7 in computer by downloading it from https://www.python.org/downloads/release/python-370/ 
+Step 3: Open CMD in system adminstrator mode and ruun the following commands to install the following libraries
+pip install opencv-python
+pip install yolov5 
+pip install torchvision==0.11.3
+Step 4: Open the arduino ide and upload the arduino code into the hardware by connecting the hardware to thr computer
+Step 5: Open python code in python 3.7 idle and run the code 

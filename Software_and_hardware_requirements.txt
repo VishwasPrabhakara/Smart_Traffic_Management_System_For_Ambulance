@@ -1,0 +1,14 @@
+Hardware Requirements
+ PC with open CV Python
+ Web Camera
+ Microcontroller-Arduino
+ USB to UART
+ LCD
+ LED
+ Buzzer
+
+Software Requirements
+ Operating System : Windows 7 and Above
+ Software Module : Open CV Image Processing.
+ Interfacing : The interfacing between the hardware
+ Computer : A general purpose PC as a central processing unit for various tasks
